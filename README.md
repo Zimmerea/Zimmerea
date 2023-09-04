@@ -1,3 +1,3 @@
 -  Hi, I’m @Zimmerea
-- 🌱 I have worked with C, Racket, Java and Python!
+- 🌱 I have worked with C, C++, Racket, Java, R and Python!
 - 📫 You can email me elizabeth@zimtek.com
